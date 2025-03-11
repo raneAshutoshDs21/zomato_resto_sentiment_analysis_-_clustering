@@ -7,20 +7,31 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 **Zomato Restaurant names and Metadata**
 
 **Name** : Name of Restaurants
+
 **Links**: URL Links of Restaurants
+
 **Cost** : Per person estimated Cost of dining
+
 **Collection** : Tagging of Restaurants w.r.t. Zomato categories
+
 **Cuisines** : Cuisines served by Restaurants
+
 **Timings** : Restaurant Timings
 ---
 **Zomato Restaurant reviews**
 
 **Restaurant** : Name of the Restaurant
+
 **Reviewer** : Name of the Reviewer
+
 **Review** : Review Text
+
 **Rating** : Rating Provided by Reviewer
+
 **MetaData** : Reviewer Metadata - No. of Reviews and followers
+
 **Time**: Date and Time of Review
+
 **Pictures** : No. of pictures posted with review
 ---
 ## EDA Summary:
