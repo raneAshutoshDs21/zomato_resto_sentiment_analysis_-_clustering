@@ -17,6 +17,7 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 **Cuisines** : Cuisines served by Restaurants
 
 **Timings** : Restaurant Timings
+
 ---
 **Zomato Restaurant reviews**
 
@@ -33,6 +34,7 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 **Time**: Date and Time of Review
 
 **Pictures** : No. of pictures posted with review
+
 ---
 ## EDA Summary:
 • College Hyatt Gachibowli is most expensive restaurant with cost more than 2500. rupees
