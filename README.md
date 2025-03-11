@@ -36,9 +36,13 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 ---
 ## EDA Summary:
 • College Hyatt Gachibowli is most expensive restaurant with cost more than 2500. rupees
+
 • Mohammedia Shawarma is the cheapest restaurant with average cost of 150 rupees.
+
 • North Indian cuisine is the most served cuisine in the restaurants followed by Chinese and South Indian
+
 • Most of the rating given by the customers are above 3
+
 • Maximum review and orders are coming between the time (12pm - 3pm) and (8pm - 11pm)
 
 ## Text Preprocessing
@@ -96,4 +100,5 @@ Out of 9,954 reviews:
 K- Means Clustering:
 
 • The optimal number of clusters were built after visualizing the elbow curve i.e., 5
+
 • Cluster were segmented in terms of the cost and ratings.
